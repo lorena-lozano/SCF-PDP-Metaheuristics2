@@ -3,7 +3,7 @@
 **Authors:** Lorena Lozano, Tina Taheri  
 **Date:** November 2025  
 
-## OVERVIEW
+## Overview
 
 This repository contains the implementation of advanced metaheuristics to solve the **Socially Constrained Fairness - Pickup and Delivery Problem (SCF-PDP)**. 
 
