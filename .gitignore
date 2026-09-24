@@ -1,27 +1,20 @@
 # Entornos virtuales
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
 venv/
 env/
-.env/
-pyvenv.cfg
 
-# Caché de Python
+# Archivos compilados y cachés de Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+*.pyo
+*.pyd
 
-# Configuración de IDEs
-.vscode/
-.idea/
-
-# Carpetas de resultados generadas automáticamente (pueden ser muy pesadas)
+# Resultados generados (opcional)
+aco_config_comparison/
+report_images/
 ea_results/
 aco_results/
-fairness_analysis/
-fairness_analysis_aco/
 quick_compare_out_v3/
-initialization_comparison/
-tuning_aco/
-
-# Archivos de sistema operativo
-.DS_Store
-Thumbs.db
