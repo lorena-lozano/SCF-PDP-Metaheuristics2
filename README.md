@@ -28,6 +28,9 @@ Evaluates different fairness indices on the generated routes:
 
 The repository includes robust analytical scripts (`fairness_analysis_aco.py`, `fairness_comparison.py`) that generate comprehensive statistical summaries, convergence graphs, routing structure comparisons, and LaTeX tables.
 
+## Full Report & Results
+For a detailed explanation of the mathematical model, the implemented algorithms, parameter tuning, and a comprehensive analysis of the computational results, please refer to the **`SCF-PDP-Metaheuristics2`** document included in this repository.
+
 ## Repository Structure
 
 - `SCFDP.py`: Core problem definition, constraints, and validation logic.
